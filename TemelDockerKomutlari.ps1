@@ -19,6 +19,10 @@ docker run -it --name "container ismi" "imaj ismi"
 #docker container çalıştırmak için (container'a konsoluna bağlanmaz)
 docker run -d --name "container ismi" "imaj ismi"
 
+#Özel bir porttan container çalıştırmak için 
+docker run -d -p 6379:6379 --name "container ismi" "imaj ismi"
+
+
 #docker containerlarını görüntülemek için
 docker ps
 
