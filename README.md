@@ -44,3 +44,17 @@ https://www.mshowto.org/visual-studio-code-ile-docker-kullanimi.html
 
 **Docker Swarm Mode**\
 https://www.mshowto.org/docker-swarm-mode.html
+
+**Azure Container Registry Kullanımı**\
+https://www.mshowto.org/azure-container-registry-kullanimi.html
+
+**Docker İmaj Kullanımı**\
+https://www.mshowto.org/docker-imaj-kullanimi.html
+
+**Azure Logic App ile Otomatik Container Oluşturma**\
+https://www.mshowto.org/azure-logic-app-ile-otomatik-container-olusturma.html
+
+**Windows 10 Üzerine Docker Kurulumu**\
+https://www.mshowto.org/windows-10-uzerine-docker-kurulumu.html
+
+
