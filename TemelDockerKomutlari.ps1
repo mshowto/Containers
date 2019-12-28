@@ -37,3 +37,9 @@ docker rm "container ismi"
 
 #lokal docker imajını silmek için 
 docker rmi "imaj ismi"
+
+#çalışan bütün docker containerları durdurmak için
+docker stop $(docker ps -q)
+
+#bütün docker containerları kaldırmak için
+docker rm -f $(docker ps -a -q)  
