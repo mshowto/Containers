@@ -13,6 +13,9 @@ https://www.mshowto.org/windows-10-da-docker-i-kullanarak-hyper-v-containers-olu
 https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-azure-kubernetes-service-aks-bolum-1.html
 https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-azure-kubernetes-service-aks-bolum-2.html
 https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-azure-kubernetes-service-aks-bolum-3.html
+https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-azure-kubernetes-service-aks-bolum-4-azure-dev-spaces.html
+
+**Yazılım Geliştiriciler için Azure: Azure VM Üzerine Kubernetes (MicroK8s) Kurulumu**\
 https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-azure-vm-uzerine-kubernetes-microk8s-kurulumu.html
 
 **Yazılım Geliştiriciler için Azure: App Services – Bölüm 5 (Docker Image)**\
@@ -57,4 +60,8 @@ https://www.mshowto.org/azure-logic-app-ile-otomatik-container-olusturma.html
 **Windows 10 Üzerine Docker Kurulumu**\
 https://www.mshowto.org/windows-10-uzerine-docker-kurulumu.html
 
+**Kata Containers Nedir?**\
+https://www.mshowto.org/kata-containers-nedir.html
 
+**Docker Desktop Dashboard**\
+https://www.mshowto.org/docker-desktop-dashboard.html
