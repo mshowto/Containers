@@ -24,6 +24,9 @@ https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-app-services-bolum-5-d
 **Yazılım Geliştiriciler için Azure: Azure Container Registry**\
 https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-azure-container-registry.html
 
+**Yazılım Geliştiriciler için Azure: Docker Swarm ve Azure Container Registry
+https://www.mshowto.org/yazilim-gelistiriciler-icin-azure-docker-swarm-ve-azure-container-registry.html
+
 **Container’lar için Azure Monitor Genel Kullanımda**\
 https://www.mshowto.org/containerlar-icin-azure-monitor-genel-kullanimda.html
 
