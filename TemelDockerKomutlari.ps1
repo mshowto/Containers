@@ -42,4 +42,7 @@ docker rmi "imaj ismi"
 docker stop $(docker ps -q)
 
 #bütün docker containerları kaldırmak için
-docker rm -f $(docker ps -a -q)  
+docker rm -f $(docker ps -a -q)
+
+#Dangling (taglenmiş imajlarla herhangi bir bağlantısı olmayan katmanlar) imajları kaldırmak için.
+docker rmi $(docker images -f dangling=true -q)
