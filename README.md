@@ -68,3 +68,6 @@ https://www.mshowto.org/kata-containers-nedir.html
 
 **Docker Desktop Dashboard**\
 https://www.mshowto.org/docker-desktop-dashboard.html
+
+**Docker Desktop Üzerinde Kubernetes Kullanımı – Bölüm 1**\
+https://www.mshowto.org/docker-desktop-uzerinde-kubernetes-kullanimi-bolum-1.html
